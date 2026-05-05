@@ -1,120 +1,125 @@
 <div align="center">
 
-# 👋 Hola, soy Jorge Pumacallahui
+# Jorge Pumacallahui Pichirhua
 
 ### Backend Developer Jr. en formación  
-### Java · Spring Boot · SQL · .NET · Git · GitHub
+**Java · Spring Boot · SQL · .NET · Git · GitHub**
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Estudiante+de+Computaci%C3%B3n+e+Inform%C3%A1tica;Desarrollador+Backend+Jr.+en+formaci%C3%B3n;Construyendo+APIs%2C+sistemas+web+y+bases+de+datos" alt="Typing SVG" />
-
-</div>
-
----
-
-## 👨‍💻 Sobre mí
-
-Soy estudiante de **Computación e Informática en Cibertec**, enfocado en el desarrollo backend, bases de datos y construcción de APIs REST.
-
-Actualmente estoy fortaleciendo mis habilidades en **Java, Spring Boot, SQL Server, MySQL, .NET, Git y GitHub**, desarrollando proyectos académicos con documentación técnica y buenas prácticas.
-
-- 🎯 Enfoque: Backend, APIs REST y bases de datos.
-- 📚 Actualmente aprendiendo: Spring Boot, documentación técnica y GitHub profesional.
-- 🧩 Interés: Sistemas web, arquitectura backend y proyectos reales.
-- 📍 Ubicación: Arequipa, Perú.
-
----
-
-## 🛠️ Tecnologías y herramientas
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Estudiante de Computación e Informática en Cibertec, enfocado en desarrollo backend, APIs REST, bases de datos relacionales y documentación técnica.
 
 </div>
 
 ---
 
-## 🚀 Proyectos destacados
+## Perfil
+
+Soy un desarrollador backend junior en formación, con interés en construir soluciones web organizadas, mantenibles y documentadas.  
+Actualmente desarrollo proyectos académicos aplicando buenas prácticas de programación, control de versiones, bases de datos y arquitectura backend.
+
+Mi enfoque principal está en:
+
+- Desarrollo backend con Java y Spring Boot.
+- Diseño y consumo de APIs REST.
+- Modelado y gestión de bases de datos relacionales.
+- Documentación técnica de proyectos.
+- Uso profesional de Git y GitHub.
+
+---
+
+## Stack técnico
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F97316">
+  <img src="https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=22C55E">
+  <img src="https://img.shields.io/badge/.NET-111827?style=for-the-badge&logo=dotnet&logoColor=8B5CF6">
+</p>
+
+### Base de datos
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=38BDF8">
+  <img src="https://img.shields.io/badge/SQL%20Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=EF4444">
+</p>
+
+### Frontend y móvil
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=F97316">
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=38BDF8">
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=FACC15">
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=60A5FA">
+  <img src="https://img.shields.io/badge/Angular-111827?style=for-the-badge&logo=angular&logoColor=EF4444">
+  <img src="https://img.shields.io/badge/Kotlin-111827?style=for-the-badge&logo=kotlin&logoColor=A855F7">
+</p>
+
+### Herramientas
+
+<p>
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F97316">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-111827?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/DataGrip-111827?style=for-the-badge&logo=datagrip&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8">
+</p>
+
+---
+
+## Proyectos destacados
 
 <table>
   <tr>
     <td width="50%">
-      <h3>📌 ProyectoCibertec</h3>
-      <p>Sistema de gestión de pagos para mercado.</p>
-      <p><b>Tecnologías:</b> Java, Spring Boot, MySQL, Angular</p>
-      <p>Incluye gestión de socios, puestos, deudas, pagos y reportes.</p>
+      <h3>ProyectoCibertec</h3>
+      <p><b>Sistema de gestión de pagos para mercado.</b></p>
+      <p>
+        Proyecto académico orientado a la administración de socios, puestos, deudas, pagos y reportes.
+        Aplica lógica de negocio, persistencia de datos y estructura backend.
+      </p>
+      <p><b>Stack:</b> Java, Spring Boot, MySQL, Angular</p>
     </td>
     <td width="50%">
-      <h3>📌 ProyectoRestaurante</h3>
-      <p>Aplicación Android para gestión de restaurante.</p>
-      <p><b>Tecnologías:</b> Kotlin, Android, Room, MVVM</p>
-      <p>Proyecto académico orientado a desarrollo móvil.</p>
+      <h3>ProyectoRestaurante</h3>
+      <p><b>Aplicación Android para gestión de restaurante.</b></p>
+      <p>
+        Proyecto móvil desarrollado con Kotlin, enfocado en interfaces, persistencia local y organización de código.
+      </p>
+      <p><b>Stack:</b> Kotlin, Android</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>📌 Curso-GitHub</h3>
-      <p>Proyecto web para practicar GitHub profesional.</p>
-      <p><b>Tecnologías:</b> HTML, CSS, JavaScript, Git, GitHub</p>
-      <p>Incluye ramas, commits, issues, pull requests y logros.</p>
+      <h3>Curso-GitHub</h3>
+      <p><b>Proyecto web para practicar flujo profesional con GitHub.</b></p>
+      <p>
+        Incluye práctica con ramas, commits, issues, pull requests, merge de cambios y documentación de repositorios.
+      </p>
+      <p><b>Stack:</b> HTML, CSS, JavaScript, Git, GitHub</p>
     </td>
     <td width="50%">
-      <h3>📌 Calculator</h3>
-      <p>Calculadora simple desarrollada en Java.</p>
-      <p><b>Tecnologías:</b> Java</p>
-      <p>Proyecto de práctica para lógica y estructura básica.</p>
+      <h3>Calculator</h3>
+      <p><b>Calculadora simple desarrollada en Java.</b></p>
+      <p>
+        Proyecto de práctica enfocado en lógica básica, estructura de código y fundamentos de programación.
+      </p>
+      <p><b>Stack:</b> Java</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Enfoque actual
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jpuma-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpuma-dev&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 Logros y aprendizaje
-
-Actualmente estoy practicando el flujo profesional de GitHub:
-
-- ✅ Issues
-- ✅ Pull Requests
-- ✅ Ramas
-- ✅ Commits descriptivos
-- ✅ Merge de cambios
-- ✅ Documentación de repositorios
-- ✅ GitHub Achievements
-
----
-
-## 📚 Actualmente estoy aprendiendo
+Actualmente estoy reforzando:
 
 ```txt
-Spring Boot        █████████░░  75%
-APIs REST          ████████░░░  70%
-SQL / MySQL        ████████░░░  70%
-GitHub             █████████░░  80%
-Angular            ██████░░░░░  55%
-.NET               █████░░░░░░  45%
+Java y POO             █████████░░  80%
+Spring Boot            ████████░░░  70%
+APIs REST              ████████░░░  70%
+SQL / MySQL            ████████░░░  75%
+Git y GitHub           █████████░░  85%
+Angular                ██████░░░░░  55%
+.NET                   █████░░░░░░  45%
+Kotlin / Android       ██████░░░░░  60%
