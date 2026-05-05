@@ -14,7 +14,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=22C55E)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=EF4444)
 ![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=38BDF8)
-![.NET](https://img.shields.io/badge/.NET-111827?style=for-the-badge&logo=dotnet&logoColor=8B5CF6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=FACC15)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=60A5FA)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F97316)
